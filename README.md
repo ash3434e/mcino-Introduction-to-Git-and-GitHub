@@ -13,6 +13,6 @@ Output
    simple interest = p*t*r
 ```
 
-Typo fixed in this branch.
+Typo fixed in this branch.(1)
 
 _© 2022 XYZ, Inc._
